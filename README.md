@@ -1,3 +1,3 @@
 # jamesredford.github.io
 
-Scholarly works by James Redford, including LaTeX sources.
+The website entitled _Scholarly Works by James Redford, Including LaTeX Sources_.
